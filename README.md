@@ -1,3 +1,3 @@
 # stockApplication
 
-Developing Data Products Final Peer-Graded Project
+Developing Data Products: Final Peer-Graded Project
