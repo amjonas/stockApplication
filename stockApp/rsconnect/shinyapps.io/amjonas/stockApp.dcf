@@ -1,0 +1,12 @@
+name: stockApp
+title: stockApp
+username:
+account: amjonas
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2793499
+bundleId: 3620189
+url: https://amjonas.shinyapps.io/stockApp/
+when: 1599857905.3104
+asMultiple: FALSE
+asStatic: FALSE
